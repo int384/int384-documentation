@@ -35,6 +35,19 @@ Click on the **Cloud Integration Automation Service Inbox** link to start.<br><b
 **Congratulations, you have successfully created the workflow.**<br><br>
 Please continue with the description in the **Cloud Integration Automation Service** (CIAS) to configure this integration scenario.<br><br>
 
+## Important
+Please observe the following notes when executing the workflow:<br>
+
+#### Step: Confirm System Components
+In the section **SAP SuccessFactors Provisioning**, please select the destination **SFSF_SFPART042584** from the **Assign Destination** dropdown.<br><br>
+![](screens/CIAS-07.png)<br><br>
+In the section **SAP Cloud Platform Integration**, please select the destination **CPI_V0386** from the **Assign Destination** dropdown.<br><br>
+![](screens/CIAS-08.png)<br><br>
+
+#### Automated Task Execution
+Please ensure that you always execute the automation using the **Execute Step** [1] button, before you complete a task using the **Task Completed** [2] button.<br><br>
+![](screens/CIAS-09.png)<br><br>
+
 ## License
 
 This project is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the [LICENSE file](LICENSE).

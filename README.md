@@ -27,7 +27,7 @@ We are very interested in your role and knowledge about the products we use in t
 
 Click on the **Review** button to continue.<br><br>
 ![](screens/CIAS-04.png)<br><br>
-**Review** your selections and click afterwards on the **Submit** button. The workflow will be **generated and activated** for you.<br><br>
+**Review** your selections on the **Summary** screen and click afterwards on the **Submit** button. The workflow will be **generated and activated** for your user (e.g. USER01).<br><br>
 ![](screens/CIAS-05.png)<br><br>
 Once the **Workflow** is ready you will see a success message that the workflow is generated and available.<br><br>
 Click on the **Cloud Integration Automation Service Inbox** link to start.<br><br>

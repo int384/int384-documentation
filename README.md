@@ -33,7 +33,7 @@ Once the **Workflow** is ready you will see a success message that the workflow 
 Click on the **Cloud Integration Automation Service Inbox** link to start.<br><br>
 ![](screens/CIAS-06.png)<br><br>
 **Congratulations, you have successfully created the workflow.**<br><br>
-Please continue with the description in the **Cloud Integration Automation Service** (CIAS) to configure this integration scenario.
+Please continue with the description in the **Cloud Integration Automation Service** (CIAS) to configure this integration scenario.<br><br>
 
 ## License
 

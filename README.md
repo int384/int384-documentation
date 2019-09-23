@@ -45,7 +45,7 @@ In the section **SAP Cloud Platform Integration**, please select the destination
 ![](screens/CIAS-08.png)<br><br>
 
 #### Automated Task Execution
-Please ensure that you always execute the automation using the **Execute Step** [1] button, before you complete a task using the **Task Completed** [2] button.<br><br>
+Please ensure that you always execute the automation using the **Execute Step** [1] button before you complete a task using the **Task Completed** [2] button.<br><br>
 ![](screens/CIAS-09.png)<br><br>
 
 ## License

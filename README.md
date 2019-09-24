@@ -8,7 +8,7 @@ In this session, you will get hands-on with the <uicontrol>Cloud Integration Aut
 
 Run the following steps to complete the exercise:
 
-Open the **INT384 Launchpad** in Google Chrome and  logon with your **INT384 user** (user + your number, e.g. USER01) and **Welcome19** as password.<br><br>
+Open the [**INT384 Launchpad**](https://tiny.cc/int384) in Google Chrome and  logon with your **INT384 user** (user + your number, e.g. USER01) and **Welcome19** as password.<br><br>
 Click on the **Workflow Creation** tile.<br><br>
 ![](screens/CIAS-01.png)<br><br>
 The **Create Workflow** application starts in a new browser tab.<br><br>
